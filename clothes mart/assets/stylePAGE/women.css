@@ -1,0 +1,19 @@
+*{
+    margin:0;    
+    box-sizing: border-box;
+}
+ul {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+#top-bar{
+    background-color: #F3EDF3
+}
+#top-bar ul {
+    display: flex;
+    justify-content: space-between;
+}
+#top-bar .fas{
+    align-content:right;
+}
